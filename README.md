@@ -1,5 +1,5 @@
 # Income-Prediction_-Census-Dataset
-## Proble Statement:-
+## Problem Statement:-
 ### We have to do the Prediction to determine whether a person makes over 50K in a year or not.
 ## Table Of Content:-
 ## Understanding the Problem Statement
